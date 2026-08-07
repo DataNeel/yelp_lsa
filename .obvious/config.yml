@@ -1,0 +1,6 @@
+branches:
+  defaultBase: master
+pr:
+  merge:
+    method: squash
+
